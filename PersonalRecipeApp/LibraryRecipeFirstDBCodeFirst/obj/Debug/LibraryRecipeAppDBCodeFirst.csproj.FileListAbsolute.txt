@@ -1,0 +1,11 @@
+C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\LibraryRecipeFirstDBCodeFirst.dll.config
+C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\LibraryRecipeFirstDBCodeFirst.dll
+C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\LibraryRecipeFirstDBCodeFirst.pdb
+C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\EntityFramework.dll
+C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\EntityFramework.xml
+C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Debug\LibraryRecipeAppDBCodeFirst.csprojResolveAssemblyReference.cache
+C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Debug\LibraryRecipeAppDBCodeFirst.csproj.CoreCompileInputs.cache
+C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Debug\LibraryRecipeFirstDBCodeFirst.dll
+C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Debug\LibraryRecipeFirstDBCodeFirst.pdb
