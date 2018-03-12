@@ -1,0 +1,21 @@
+﻿<Window x:Name="RecipeAppMainWindow" x:Class="AppRecipe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppRecipe"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="423.169" Width="656.358" FontFamily="Consolas" Loaded="RecipeAppMainWindow_Loaded" Closed="RecipeAppMainWindow_Closed" Closing="RecipeAppMainWindow_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="48*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnExit" Content="Exit" HorizontalAlignment="Left" Margin="399,366,0,0" VerticalAlignment="Top" Width="75" Click="btnExit_Click" Grid.Column="1" Height="18"/>
+        <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="399,343,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Click="btnClear_Click" Height="18"/>
+        <ListBox x:Name="lbxRecipes" HorizontalAlignment="Left" Height="244" Margin="10,41,0,0" VerticalAlignment="Top" Width="171" BorderThickness="1" BorderBrush="#FF333333" Grid.ColumnSpan="2"/>
+        <Label x:Name="lblMessage" Content="" HorizontalAlignment="Left" Height="87" Margin="11,297,0,0" VerticalAlignment="Top" Width="549" BorderThickness="1" BorderBrush="#33333333" Grid.ColumnSpan="2"/>
+        <Label x:Name="lblTitleRecipe" Content="Recipe" HorizontalAlignment="Left" Margin="10,17,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="171"/>
+
+    </Grid>
+</Window>

@@ -9,3 +9,14 @@ C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Deb
 C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Debug\LibraryRecipeAppDBCodeFirst.csproj.CoreCompileInputs.cache
 C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Debug\LibraryRecipeFirstDBCodeFirst.dll
 C:\working\projectsClassPersonal\RecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Debug\LibraryRecipeFirstDBCodeFirst.pdb
+C:\working\bcceClassRepo\PersonalRecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\LibraryRecipeFirstDBCodeFirst.dll.config
+C:\working\bcceClassRepo\PersonalRecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\LibraryRecipeFirstDBCodeFirst.dll
+C:\working\bcceClassRepo\PersonalRecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\LibraryRecipeFirstDBCodeFirst.pdb
+C:\working\bcceClassRepo\PersonalRecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\EntityFramework.dll
+C:\working\bcceClassRepo\PersonalRecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\working\bcceClassRepo\PersonalRecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\EntityFramework.xml
+C:\working\bcceClassRepo\PersonalRecipeApp\LibraryRecipeFirstDBCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\working\bcceClassRepo\PersonalRecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Debug\LibraryRecipeAppDBCodeFirst.csprojResolveAssemblyReference.cache
+C:\working\bcceClassRepo\PersonalRecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Debug\LibraryRecipeAppDBCodeFirst.csproj.CoreCompileInputs.cache
+C:\working\bcceClassRepo\PersonalRecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Debug\LibraryRecipeFirstDBCodeFirst.dll
+C:\working\bcceClassRepo\PersonalRecipeApp\LibraryRecipeFirstDBCodeFirst\obj\Debug\LibraryRecipeFirstDBCodeFirst.pdb
